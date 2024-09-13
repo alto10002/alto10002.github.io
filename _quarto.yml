@@ -1,6 +1,6 @@
 project:
   type: website
-  out-dir: docs
+  output-dir: docs
 
 website:
   title: "alto10002.github.io"
